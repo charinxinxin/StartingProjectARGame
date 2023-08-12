@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		93A437E42A832F6000E8A882 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93A437E32A832F6000E8A882 /* AppDelegate.swift */; };
-		93A437E62A832F6000E8A882 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 93A437E52A832F6000E8A882 /* art.scnassets */; };
 		93A437E82A832F6000E8A882 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93A437E72A832F6000E8A882 /* ViewController.swift */; };
 		93A437EB2A832F6000E8A882 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93A437E92A832F6000E8A882 /* Main.storyboard */; };
 		93A437ED2A832F6100E8A882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93A437EC2A832F6100E8A882 /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		93A437E02A832F6000E8A882 /* WallDetect2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WallDetect2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93A437E32A832F6000E8A882 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		93A437E52A832F6000E8A882 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		93A437E72A832F6000E8A882 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		93A437EA2A832F6000E8A882 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		93A437EC2A832F6100E8A882 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 			isa = PBXGroup;
 			children = (
 				93A437E32A832F6000E8A882 /* AppDelegate.swift */,
-				93A437E52A832F6000E8A882 /* art.scnassets */,
 				93A437E72A832F6000E8A882 /* ViewController.swift */,
 				93A437E92A832F6000E8A882 /* Main.storyboard */,
 				93A437EC2A832F6100E8A882 /* Assets.xcassets */,
@@ -123,7 +120,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93A437E62A832F6000E8A882 /* art.scnassets in Resources */,
 				93A437F02A832F6100E8A882 /* LaunchScreen.storyboard in Resources */,
 				93A437ED2A832F6100E8A882 /* Assets.xcassets in Resources */,
 				93A437EB2A832F6000E8A882 /* Main.storyboard in Resources */,
